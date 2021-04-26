@@ -1,6 +1,9 @@
  Part 2
+<<<<<<< HEAD
 
 Task 10
 #3
 commits
 
+=======
+>>>>>>> parent of 87d1407 (com 2)
